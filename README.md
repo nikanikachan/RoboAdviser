@@ -14,7 +14,7 @@ The GIF below shows how the roboadviser chatbot works. I also used some test cas
 
 Here are the relevant files:
 
-- [Lambda Function in Python](http://) 
-- [Robo Advisor zip file from Amazon Lex](http://) 
+- [Lambda Function in Python](https://github.com/nikanikachan/unit13-challenge/blob/main/RoboAdvisor/lambda_function_hw.py) 
+- [Robo Advisor zip file from Amazon Lex](https://github.com/nikanikachan/unit13-challenge/blob/main/RoboAdvisor/RoboAdvisor_1_3166e1ec-98c2-4287-be4a-a3287e6d3a56_Bot_LEX_V1.zip) 
 
 
